@@ -93,4 +93,4 @@ print(myx)
 
 with open("new.txt","w") as writer:
     for item in myx:
-        writer.write(str(item))
+        writer.write(str(item) + "\n")
