@@ -91,7 +91,6 @@ if __name__ == "__main__":
 #New stuff
 print(myx)
 
-myx=str(myx)
-
 with open("new.txt","w") as writer:
-    writer.write(myx)
+    for item in myx:
+        writer.write(str(item))
