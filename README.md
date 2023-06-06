@@ -1,4 +1,4 @@
-# Random Number Generation, statistics, Probability
+# Random Number Generation, Statistics, Probability
 
 Part 1: Generate random numbers 
 
